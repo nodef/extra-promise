@@ -7,3 +7,6 @@ https://www.npmjs.com/package/p-finally
 https://www.npmjs.com/package/p-limit
 https://www.npmjs.com/package/p-memoize
 https://www.npmjs.com/package/promise-retry
+
+
+promise-welder	promise	Promise-Welder is a promise chaining/reducing utility.
